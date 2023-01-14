@@ -1,0 +1,2 @@
+bash: hello: command not found
+hello world
